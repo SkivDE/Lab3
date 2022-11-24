@@ -1,0 +1,796 @@
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 6 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 6 комнат . 
+Number of rooms: 5 комнат . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 5 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 5 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 5 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 10 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 5 комнат . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 5 комнат . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 6 комнат . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 5 комнат . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: NaN . 
+Number of rooms: 4 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: NaN . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 3 комнаты . 
+Number of rooms: 2 комнаты . 
+Number of rooms: 4 комнаты . 

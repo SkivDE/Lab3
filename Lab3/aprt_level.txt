@@ -1,0 +1,796 @@
+Your level: 21 из 25 . 
+Your level: NaN . 
+Your level: 5 из 18 . 
+Your level: 5 из 5 . 
+Your level: 2 из 10 . 
+Your level: 2 из 22 . 
+Your level: 21 из 23 . 
+Your level: 4 из 23 . 
+Your level: 6 из 20 . 
+Your level: 2 из 9 . 
+Your level: 8 из 19 . 
+Your level: 2 из 17 . 
+Your level: 13 из 25 . 
+Your level: 12 из 12 . 
+Your level: 12 из 25 . 
+Your level: 5 из 9 . 
+Your level: 16 из 18 . 
+Your level: 4 из 6 . 
+Your level: 3 из 10 . 
+Your level: 21 из 24 . 
+Your level: 3 из 23 . 
+Your level: 8 из 9 . 
+Your level: 5 из 5 . 
+Your level: 5 из 5 . 
+Your level: 3 из 5 . 
+Your level: 7 из 12 . 
+Your level: 14 из 15 . 
+Your level: 6 из 25 . 
+Your level: 19 из 25 . 
+Your level: NaN . 
+Your level: 7 из 16 . 
+Your level: 12 из 18 . 
+Your level: 6 из 16 . 
+Your level: NaN . 
+Your level: 24 из 26 . 
+Your level: NaN . 
+Your level: 5 из 25 . 
+Your level: 9 из 12 . 
+Your level: 3 из 4 . 
+Your level: 15 из 25 . 
+Your level: 3 из 9 . 
+Your level: 15 из 25 . 
+Your level: 9 из 9 . 
+Your level: 17 из 17 . 
+Your level: 22 из 25 . 
+Your level: NaN . 
+Your level: 14 из 25 . 
+Your level: 5 из 5 . 
+Your level: 12 из 23 . 
+Your level: 4-этажный дом . 
+Your level: 5 из 5 . 
+Your level: 16 из 26 . 
+Your level: 14 из 24 . 
+Your level: 13 из 25 . 
+Your level: 3 из 16 . 
+Your level: NaN . 
+Your level: 7 из 9 . 
+Your level: 6 из 24 . 
+Your level: 9 из 9 . 
+Your level: NaN . 
+Your level: 9 из 9 . 
+Your level: 2 из 5 . 
+Your level: 3 из 5 . 
+Your level: 3 из 24 . 
+Your level: 5 из 9 . 
+Your level: NaN . 
+Your level: 29 из 33 . 
+Your level: 2 из 8 . 
+Your level: 16 из 24 . 
+Your level: 4 из 25 . 
+Your level: 3 из 8 . 
+Your level: 21 из 25 . 
+Your level: 12 из 23 . 
+Your level: 4-этажный дом . 
+Your level: 5 из 5 . 
+Your level: 16 из 26 . 
+Your level: 14 из 24 . 
+Your level: 13 из 25 . 
+Your level: 3 из 16 . 
+Your level: NaN . 
+Your level: 7 из 9 . 
+Your level: 6 из 24 . 
+Your level: 9 из 9 . 
+Your level: NaN . 
+Your level: 9 из 9 . 
+Your level: 2 из 5 . 
+Your level: 3 из 5 . 
+Your level: 3 из 24 . 
+Your level: 5 из 9 . 
+Your level: NaN . 
+Your level: 29 из 33 . 
+Your level: 2 из 8 . 
+Your level: 16 из 24 . 
+Your level: 4 из 25 . 
+Your level: 3 из 8 . 
+Your level: 21 из 25 . 
+Your level: 6 из 6 . 
+Your level: 7 из 22 . 
+Your level: NaN . 
+Your level: 2 из 5 . 
+Your level: 5 из 16 . 
+Your level: 2 из 5 . 
+Your level: 2 из 13 . 
+Your level: 23 из 23 . 
+Your level: 2 из 15 . 
+Your level: 7 из 25 . 
+Your level: NaN . 
+Your level: 4 из 5 . 
+Your level: 6 из 22 . 
+Your level: 9 из 27 . 
+Your level: 4 из 22 . 
+Your level: 18 из 25 . 
+Your level: 5 из 25 . 
+Your level: 3 из 18 . 
+Your level: 3 из 24 . 
+Your level: 5 из 24 . 
+Your level: 23 из 25 . 
+Your level: 3 из 28 . 
+Your level: 8 из 9 . 
+Your level: 9 из 25 . 
+Your level: 3 из 10 . 
+Your level: 3 из 6 . 
+Your level: 7 из 12 . 
+Your level: 5 из 16 . 
+Your level: 3 из 25 . 
+Your level: NaN . 
+Your level: 17 из 22 . 
+Your level: 19 из 19 . 
+Your level: 4 из 5 . 
+Your level: 19 из 25 . 
+Your level: 6 из 10 . 
+Your level: 4 из 20 . 
+Your level: 23 из 25 . 
+Your level: 9 из 9 . 
+Your level: 3 из 25 . 
+Your level: 3 из 3 . 
+Your level: 12 из 24 . 
+Your level: 2 из 15 . 
+Your level: 6 из 9 . 
+Your level: 4 из 4 . 
+Your level: NaN . 
+Your level: 8 из 11 . 
+Your level: 2 из 10 . 
+Your level: 3 из 32 . 
+Your level: 23 из 25 . 
+Your level: 2 из 9 . 
+Your level: 7 из 25 . 
+Your level: 3 из 13 . 
+Your level: 3 из 5 . 
+Your level: 2 из 25 . 
+Your level: NaN . 
+Your level: 21 из 24 . 
+Your level: 2 из 9 . 
+Your level: 7 из 8 . 
+Your level: NaN . 
+Your level: 13 из 18 . 
+Your level: 22 из 25 . 
+Your level: 5 из 22 . 
+Your level: 17 из 20 . 
+Your level: 13 из 34 . 
+Your level: 6 из 6 . 
+Your level: NaN . 
+Your level: 9 из 16 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 17 из 26 . 
+Your level: NaN . 
+Your level: 4 из 5 . 
+Your level: NaN . 
+Your level: 12 из 23 . 
+Your level: 5 из 11 . 
+Your level: 5 из 16 . 
+Your level: 7 из 14 . 
+Your level: 9 из 16 . 
+Your level: 23 из 25 . 
+Your level: 15 из 24 . 
+Your level: 12 из 25 . 
+Your level: 22 из 26 . 
+Your level: 6 из 9 . 
+Your level: 6 из 9 . 
+Your level: 5 из 24 . 
+Your level: 8 из 8 . 
+Your level: NaN . 
+Your level: 2 из 24 . 
+Your level: 2 из 25 . 
+Your level: NaN . 
+Your level: 7 из 22 . 
+Your level: 2 из 5 . 
+Your level: 3 из 25 . 
+Your level: 2 из 25 . 
+Your level: 3 из 5 . 
+Your level: 23 из 25 . 
+Your level: 3 из 5 . 
+Your level: 15 из 23 . 
+Your level: 7 из 26 . 
+Your level: 19 из 26 . 
+Your level: 3 из 5 . 
+Your level: 9 из 24 . 
+Your level: 5 из 9 . 
+Your level: 15 из 15 . 
+Your level: 4 из 6 . 
+Your level: 15 из 20 . 
+Your level: 7 из 25 . 
+Your level: 14 из 17 . 
+Your level: NaN . 
+Your level: 8 из 25 . 
+Your level: 6 из 6 . 
+Your level: 16 из 16 . 
+Your level: 2 из 9 . 
+Your level: NaN . 
+Your level: 4 из 6 . 
+Your level: 20 из 31 . 
+Your level: 4 из 16 . 
+Your level: 12 из 25 . 
+Your level: 16 из 26 . 
+Your level: NaN . 
+Your level: 2 из 5 . 
+Your level: 8 из 9 . 
+Your level: 2 из 10 . 
+Your level: 15 из 25 . 
+Your level: 22 из 24 . 
+Your level: 6 из 9 . 
+Your level: 4 из 16 . 
+Your level: 13 из 25 . 
+Your level: 3 из 16 . 
+Your level: 25 из 25 . 
+Your level: 9 из 24 . 
+Your level: 6 из 9 . 
+Your level: 27 из 27 . 
+Your level: 12 из 16 . 
+Your level: 9 из 25 . 
+Your level: 9 из 9 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 26 из 33 . 
+Your level: 21 из 25 . 
+Your level: 14 из 16 . 
+Your level: NaN . 
+Your level: 3 из 24 . 
+Your level: 4 из 5 . 
+Your level: 16 из 17 . 
+Your level: 20 из 24 . 
+Your level: NaN . 
+Your level: 4 из 9 . 
+Your level: 16 из 24 . 
+Your level: 24 из 26 . 
+Your level: 2 из 22 . 
+Your level: 22 из 24 . 
+Your level: NaN . 
+Your level: 16 из 19 . 
+Your level: 4 из 14 . 
+Your level: 9 из 9 . 
+Your level: 12 из 12 . 
+Your level: 18 из 24 . 
+Your level: 12 из 20 . 
+Your level: 5 из 6 . 
+Your level: 6 из 16 . 
+Your level: NaN . 
+Your level: 4 из 26 . 
+Your level: 3 из 4 . 
+Your level: 8 из 27 . 
+Your level: 6 из 12 . 
+Your level: 6 из 25 . 
+Your level: 25 из 25 . 
+Your level: NaN . 
+Your level: 6 из 8 . 
+Your level: 5 из 19 . 
+Your level: 15 из 30 . 
+Your level: NaN . 
+Your level: 4 из 5 . 
+Your level: 5 из 26 . 
+Your level: 5 из 23 . 
+Your level: 20 из 26 . 
+Your level: 13 из 24 . 
+Your level: 7 из 9 . 
+Your level: 5 из 9 . 
+Your level: 21 из 22 . 
+Your level: 21 из 25 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 2 из 4 . 
+Your level: 2 из 10 . 
+Your level: 9 из 20 . 
+Your level: 15 из 20 . 
+Your level: 14 из 25 . 
+Your level: NaN . 
+Your level: 4 из 4 . 
+Your level: 8 из 9 . 
+Your level: 16 из 24 . 
+Your level: 3 из 5 . 
+Your level: 16 из 25 . 
+Your level: NaN . 
+Your level: 9 из 13 . 
+Your level: 9 из 9 . 
+Your level: 5 из 25 . 
+Your level: 3 из 17 . 
+Your level: 17 из 35 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 6 из 9 . 
+Your level: 9 из 24 . 
+Your level: 14 из 16 . 
+Your level: NaN . 
+Your level: 21 из 25 . 
+Your level: NaN . 
+Your level: 21 из 27 . 
+Your level: 4 из 5 . 
+Your level: 5 из 24 . 
+Your level: 12 из 25 . 
+Your level: NaN . 
+Your level: 6 из 26 . 
+Your level: 7 из 25 . 
+Your level: 12 из 26 . 
+Your level: 12 из 20 . 
+Your level: 19 из 24 . 
+Your level: 9 из 17 . 
+Your level: 14 из 16 . 
+Your level: 18 из 24 . 
+Your level: 23 из 25 . 
+Your level: 8 из 24 . 
+Your level: 21 из 24 . 
+Your level: 3 из 15 . 
+Your level: 24 из 25 . 
+Your level: 19 из 25 . 
+Your level: 4 из 25 . 
+Your level: 9 из 12 . 
+Your level: 3 из 25 . 
+Your level: 5 из 9 . 
+Your level: 16 из 26 . 
+Your level: 4 из 22 . 
+Your level: 3 из 25 . 
+Your level: NaN . 
+Your level: 9 из 9 . 
+Your level: 2 из 22 . 
+Your level: 22 из 26 . 
+Your level: NaN . 
+Your level: 9 из 10 . 
+Your level: 14 из 24 . 
+Your level: 4 из 4 . 
+Your level: NaN . 
+Your level: 2 из 9 . 
+Your level: 3 из 4 . 
+Your level: 9 из 10 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 2 из 5 . 
+Your level: 16 из 25 . 
+Your level: 8 из 16 . 
+Your level: 2 из 6 . 
+Your level: NaN . 
+Your level: 6 из 7 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 26 из 26 . 
+Your level: NaN . 
+Your level: 6 из 9 . 
+Your level: 20 из 22 . 
+Your level: 12 из 21 . 
+Your level: 15 из 25 . 
+Your level: 16 из 25 . 
+Your level: 7 из 16 . 
+Your level: NaN . 
+Your level: 28 из 30 . 
+Your level: 16 из 17 . 
+Your level: 7 из 9 . 
+Your level: 7 из 23 . 
+Your level: NaN . 
+Your level: 6 из 25 . 
+Your level: NaN . 
+Your level: 12 из 24 . 
+Your level: 15 из 23 . 
+Your level: 4 из 8 . 
+Your level: 6 из 25 . 
+Your level: 4 из 24 . 
+Your level: 8 из 26 . 
+Your level: 6 из 10 . 
+Your level: 5 из 25 . 
+Your level: 18 из 19 . 
+Your level: 16 из 17 . 
+Your level: 5 из 24 . 
+Your level: 6 из 26 . 
+Your level: 7 из 9 . 
+Your level: 25 из 26 . 
+Your level: 13 из 22 . 
+Your level: 13 из 25 . 
+Your level: 2 из 25 . 
+Your level: 16 из 24 . 
+Your level: 19 из 24 . 
+Your level: 9 из 9 . 
+Your level: 3 из 4 . 
+Your level: NaN . 
+Your level: 9 из 26 . 
+Your level: NaN . 
+Your level: 21 из 25 . 
+Your level: 20 из 24 . 
+Your level: 15 из 26 . 
+Your level: 8 из 15 . 
+Your level: 9 из 10 . 
+Your level: 8 из 32 . 
+Your level: NaN . 
+Your level: 7 из 9 . 
+Your level: 5 из 12 . 
+Your level: NaN . 
+Your level: 2 из 4 . 
+Your level: NaN . 
+Your level: 3 из 9 . 
+Your level: 4 из 5 . 
+Your level: 7 из 16 . 
+Your level: 12 из 27 . 
+Your level: 16 из 17 . 
+Your level: 4 из 9 . 
+Your level: 5 из 5 . 
+Your level: 8 из 26 . 
+Your level: 4 из 26 . 
+Your level: 3 из 24 . 
+Your level: 3 из 5 . 
+Your level: NaN . 
+Your level: 18 из 24 . 
+Your level: 12 из 23 . 
+Your level: 25 из 26 . 
+Your level: 4 из 8 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 8 из 9 . 
+Your level: 2 из 5 . 
+Your level: NaN . 
+Your level: 18 из 26 . 
+Your level: 7 из 19 . 
+Your level: 4 из 24 . 
+Your level: 13 из 16 . 
+Your level: 23 из 36 . 
+Your level: 26 из 26 . 
+Your level: 9 из 16 . 
+Your level: 13 из 17 . 
+Your level: 8 из 10 . 
+Your level: 9 из 9 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 21 из 22 . 
+Your level: 13 из 26 . 
+Your level: 8 из 10 . 
+Your level: 5 из 16 . 
+Your level: 9 из 19 . 
+Your level: NaN . 
+Your level: 4 из 16 . 
+Your level: 12 из 16 . 
+Your level: 2 из 4 . 
+Your level: 22 из 26 . 
+Your level: 3 из 8 . 
+Your level: 15 из 25 . 
+Your level: 16 из 24 . 
+Your level: 4 из 9 . 
+Your level: 4 из 9 . 
+Your level: 2 из 12 . 
+Your level: 2 из 5 . 
+Your level: NaN . 
+Your level: 13 из 15 . 
+Your level: 26 из 13 . 
+Your level: 6 из 26 . 
+Your level: 3 из 7 . 
+Your level: 5 из 5 . 
+Your level: 5 из 6 . 
+Your level: 23 из 25 . 
+Your level: 18 из 26 . 
+Your level: 6 из 25 . 
+Your level: NaN . 
+Your level: 3 из 30 . 
+Your level: NaN . 
+Your level: 8 из 19 . 
+Your level: NaN . 
+Your level: 6 из 17 . 
+Your level: 2 из 5 . 
+Your level: 2 из 16 . 
+Your level: NaN . 
+Your level: 9 из 17 . 
+Your level: 23 из 26 . 
+Your level: 25 из 26 . 
+Your level: 24 из 25 . 
+Your level: NaN . 
+Your level: 7 из 25 . 
+Your level: 4 из 17 . 
+Your level: 3 из 24 . 
+Your level: 15 из 24 . 
+Your level: NaN . 
+Your level: 4 из 5 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 7 из 13 . 
+Your level: 25 из 25 . 
+Your level: 8 из 9 . 
+Your level: 7 из 25 . 
+Your level: 23 из 25 . 
+Your level: 3 из 3 . 
+Your level: 17 из 25 . 
+Your level: 14 из 15 . 
+Your level: 23 из 26 . 
+Your level: 3 из 9 . 
+Your level: 24 из 25 . 
+Your level: 15 из 19 . 
+Your level: 6 из 9 . 
+Your level: 15 из 25 . 
+Your level: 9 из 26 . 
+Your level: 20 из 24 . 
+Your level: 20 из 21 . 
+Your level: 18 из 25 . 
+Your level: 8 из 22 . 
+Your level: 24 из 25 . 
+Your level: 23 из 24 . 
+Your level: 4 из 5 . 
+Your level: NaN . 
+Your level: 13 из 18 . 
+Your level: 23 из 34 . 
+Your level: 14 из 24 . 
+Your level: 4 из 9 . 
+Your level: 4 из 10 . 
+Your level: NaN . 
+Your level: 13 из 19 . 
+Your level: 9 из 25 . 
+Your level: 15 из 26 . 
+Your level: 18 из 24 . 
+Your level: 22 из 23 . 
+Your level: 17 из 20 . 
+Your level: NaN . 
+Your level: 3 из 5 . 
+Your level: NaN . 
+Your level: 4 из 11 . 
+Your level: 4 из 15 . 
+Your level: 3 из 9 . 
+Your level: 7 из 24 . 
+Your level: NaN . 
+Your level: 23 из 25 . 
+Your level: 9 из 14 . 
+Your level: 15 из 22 . 
+Your level: 18 из 26 . 
+Your level: 16 из 24 . 
+Your level: 7 из 16 . 
+Your level: 25 из 25 . 
+Your level: 25 из 34 . 
+Your level: 7 из 12 . 
+Your level: 9 из 9 . 
+Your level: NaN . 
+Your level: 2 из 5 . 
+Your level: 8 из 11 . 
+Your level: 4 из 25 . 
+Your level: 24 из 25 . 
+Your level: 13 из 16 . 
+Your level: 4 из 9 . 
+Your level: 2 из 6 . 
+Your level: 18 из 25 . 
+Your level: 6 из 9 . 
+Your level: 17 из 26 . 
+Your level: NaN . 
+Your level: 9 из 24 . 
+Your level: 23 из 25 . 
+Your level: 4 из 4 . 
+Your level: 15 из 26 . 
+Your level: 6 из 12 . 
+Your level: 21 из 22 . 
+Your level: NaN . 
+Your level: 8 из 25 . 
+Your level: NaN . 
+Your level: 5 из 8 . 
+Your level: 6 из 25 . 
+Your level: 4 из 18 . 
+Your level: 3 из 10 . 
+Your level: 9 из 9 . 
+Your level: 24 из 26 . 
+Your level: 5 из 9 . 
+Your level: 9 из 11 . 
+Your level: 17 из 24 . 
+Your level: 17 из 24 . 
+Your level: 20 из 20 . 
+Your level: 4 из 5 . 
+Your level: 22 из 25 . 
+Your level: 3 из 9 . 
+Your level: NaN . 
+Your level: 28 из 28 . 
+Your level: NaN . 
+Your level: 5 из 12 . 
+Your level: 12 из 19 . 
+Your level: 5 из 5 . 
+Your level: 8 из 27 . 
+Your level: NaN . 
+Your level: 7 из 10 . 
+Your level: 3 из 25 . 
+Your level: 20 из 24 . 
+Your level: 14 из 26 . 
+Your level: 2 из 3 . 
+Your level: 13 из 26 . 
+Your level: NaN . 
+Your level: 3 из 3 . 
+Your level: 22 из 30 . 
+Your level: 4 из 14 . 
+Your level: 7 из 9 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 2 из 25 . 
+Your level: 3 из 5 . 
+Your level: 9 из 9 . 
+Your level: NaN . 
+Your level: 7 из 20 . 
+Your level: 17 из 25 . 
+Your level: NaN . 
+Your level: 15 из 25 . 
+Your level: NaN . 
+Your level: 9 из 9 . 
+Your level: NaN . 
+Your level: 21 из 25 . 
+Your level: 7 из 15 . 
+Your level: 28 из 34 . 
+Your level: 4 из 19 . 
+Your level: 4 из 8 . 
+Your level: 24 из 25 . 
+Your level: 5 из 9 . 
+Your level: 3 из 25 . 
+Your level: NaN . 
+Your level: 7 из 10 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 4 из 14 . 
+Your level: 5 из 25 . 
+Your level: 23 из 25 . 
+Your level: 18 из 25 . 
+Your level: 9 из 30 . 
+Your level: 4 из 6 . 
+Your level: 7 из 20 . 
+Your level: 3 из 5 . 
+Your level: 2 из 25 . 
+Your level: 16 из 22 . 
+Your level: 12 из 14 . 
+Your level: 4 из 26 . 
+Your level: 5 из 5 . 
+Your level: 3 из 18 . 
+Your level: 16 из 23 . 
+Your level: 3 из 3 . 
+Your level: NaN . 
+Your level: 22 из 22 . 
+Your level: NaN . 
+Your level: 4 из 5 . 
+Your level: NaN . 
+Your level: 18 из 25 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 6 из 17 . 
+Your level: 12 из 16 . 
+Your level: NaN . 
+Your level: 8 из 26 . 
+Your level: 2 из 9 . 
+Your level: 17 из 21 . 
+Your level: 6 из 9 . 
+Your level: NaN . 
+Your level: 18 из 21 . 
+Your level: 4 из 25 . 
+Your level: 14 из 16 . 
+Your level: 2 из 5 . 
+Your level: 9 из 26 . 
+Your level: 3 из 26 . 
+Your level: NaN . 
+Your level: 5 из 27 . 
+Your level: 15 из 16 . 
+Your level: 24 из 25 . 
+Your level: 4 из 16 . 
+Your level: 2 из 10 . 
+Your level: 9 из 21 . 
+Your level: 14 из 24 . 
+Your level: 12 из 27 . 
+Your level: 3 из 22 . 
+Your level: 9 из 26 . 
+Your level: 9 из 17 . 
+Your level: 3 из 7 . 
+Your level: 9 из 13 . 
+Your level: 22 из 30 . 
+Your level: 25 из 26 . 
+Your level: 9 из 9 . 
+Your level: 3 из 17 . 
+Your level: 17 из 17 . 
+Your level: NaN . 
+Your level: 21 из 25 . 
+Your level: 2 из 10 . 
+Your level: 15 из 25 . 
+Your level: NaN . 
+Your level: 6 из 9 . 
+Your level: 18 из 27 . 
+Your level: 22 из 22 . 
+Your level: 19 из 25 . 
+Your level: 24 из 26 . 
+Your level: 5 из 5 . 
+Your level: 22 из 22 . 
+Your level: 3 из 15 . 
+Your level: 25 из 26 . 
+Your level: 12 из 14 . 
+Your level: NaN . 
+Your level: 21 из 25 . 
+Your level: 19 из 25 . 
+Your level: 21 из 25 . 
+Your level: 8 из 26 . 
+Your level: 17 из 24 . 
+Your level: NaN . 
+Your level: 6 из 25 . 
+Your level: 20 из 25 . 
+Your level: 8 из 34 . 
+Your level: 12 из 13 . 
+Your level: NaN . 
+Your level: 8 из 26 . 
+Your level: 15 из 25 . 
+Your level: NaN . 
+Your level: 18 из 25 . 
+Your level: 15 из 23 . 
+Your level: 2 из 4 . 
+Your level: NaN . 
+Your level: 2 из 9 . 
+Your level: 3 из 9 . 
+Your level: 24 из 25 . 
+Your level: 5 из 9 . 
+Your level: 4 из 27 . 
+Your level: 15 из 20 . 
+Your level: 6 из 9 . 
+Your level: 9 из 16 . 
+Your level: 23 из 24 . 
+Your level: 29 из 36 . 
+Your level: 5 из 5 . 
+Your level: 19 из 20 . 
+Your level: NaN . 
+Your level: 7 из 11 . 
+Your level: 5 из 5 . 
+Your level: 6 из 25 . 
+Your level: 15 из 28 . 
+Your level: 7 из 25 . 
+Your level: 9 из 21 . 
+Your level: 4 из 25 . 
+Your level: 4 из 4 . 
+Your level: 5 из 8 . 
+Your level: 6 из 25 . 
+Your level: 9 из 26 . 
+Your level: 12 из 19 . 
+Your level: 27 из 27 . 
+Your level: 5 из 5 . 
+Your level: 15 из 25 . 
+Your level: 14 из 25 . 
+Your level: NaN . 
+Your level: 26 из 28 . 
+Your level: 16 из 26 . 
+Your level: 5 из 9 . 
+Your level: 5 из 16 . 
+Your level: 15 из 25 . 
+Your level: 2 из 24 . 
+Your level: NaN . 
+Your level: 7 из 10 . 
+Your level: 14 из 29 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 5 из 25 . 
+Your level: 6 из 24 . 
+Your level: NaN . 
+Your level: 4 из 10 . 
+Your level: 2 из 9 . 
+Your level: 19 из 26 . 
+Your level: 3 из 9 . 
+Your level: 24 из 25 . 
+Your level: 8 из 18 . 
+Your level: 4 из 25 . 
+Your level: 9 из 11 . 
+Your level: 5 из 21 . 
+Your level: 21 из 35 . 
+Your level: NaN . 
+Your level: 6 из 17 . 
+Your level: 9 из 10 . 
+Your level: NaN . 
+Your level: 5 из 7 . 
+Your level: NaN . 
+Your level: 6 из 9 . 
+Your level: 12 из 19 . 
+Your level: 22 из 31 . 
+Your level: NaN . 
+Your level: 2 из 14 . 
+Your level: 15 из 29 . 
+Your level: 15 из 30 . 
+Your level: 5 из 10 . 
+Your level: NaN . 
+Your level: NaN . 
+Your level: 5 из 5 . 
+Your level: 2 из 16 . 
+Your level: 12 из 16 . 
+Your level: 9 из 19 . 
+Your level: 2 из 12 . 
+Your level: NaN . 
+Your level: 21 из 26 . 
+Your level: 7 из 10 . 
+Your level: 13 из 21 . 
+Your level: 7 из 8 . 
+Your level: 7 из 16 . 
+Your level: 16 из 25 . 
